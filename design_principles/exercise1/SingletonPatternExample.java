@@ -1,3 +1,4 @@
+package design_principles.exercise1;
 import java.util.*;
 // Singleton Pattern Example
 class Logger{
