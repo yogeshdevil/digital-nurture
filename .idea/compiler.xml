@@ -9,6 +9,9 @@
         <module name="week_2_junit_exercise3" />
         <module name="week_2_junit_exercise4" />
         <module name="week_2_junit_exercise1" />
+        <module name="week_2_mockito_exercise2" />
+        <module name="week_2_mockito_exercise1" />
+        <module name="week_2_slf4j_exercise1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
