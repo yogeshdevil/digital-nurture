@@ -12,6 +12,7 @@
         <module name="week_2_mockito_exercise2" />
         <module name="week_2_mockito_exercise1" />
         <module name="week_2_slf4j_exercise1" />
+        <module name="week_3_spring_maven_exercise1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
