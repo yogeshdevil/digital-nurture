@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/digital nurture.iml" filepath="$PROJECT_DIR$/digital nurture.iml" />
       <module fileurl="file://$PROJECT_DIR$/week_1_design_principles/week_1_design_principles.iml" filepath="$PROJECT_DIR$/week_1_design_principles/week_1_design_principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week_3_spring_maven_exercise4/week_3_spring_maven_exercise4.iml" filepath="$PROJECT_DIR$/week_3_spring_maven_exercise4/week_3_spring_maven_exercise4.iml" />
     </modules>
   </component>
 </project>
