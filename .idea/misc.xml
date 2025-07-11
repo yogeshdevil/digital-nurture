@@ -17,11 +17,20 @@
         <option value="$PROJECT_DIR$/week_3_spring_maven_exercise2/pom.xml" />
         <option value="$PROJECT_DIR$/LibraryManagement/pom.xml" />
         <option value="$PROJECT_DIR$/week_3_spring_maven_exercise4/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson1/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson4/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson_helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handsonhelloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handsonhelloworld/spring-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson_countryweb/spring-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson_countrybycode/spring-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_jwt_handson_authentservice/spring-authenticate/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/week_4_spring_rest_handson_helloworld/pom.xml" />
       </set>
     </option>
   </component>
