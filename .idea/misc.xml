@@ -25,6 +25,8 @@
         <option value="$PROJECT_DIR$/week_4_spring_rest_handson_countryweb/spring-hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/week_4_spring_rest_handson_countrybycode/spring-hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/week_4_jwt_handson_authentservice/spring-authenticate/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices/account/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices/loan/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

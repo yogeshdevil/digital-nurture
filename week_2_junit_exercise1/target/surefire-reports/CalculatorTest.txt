@@ -1,14 +1,14 @@
 -------------------------------------------------------------------------------
 Test set: CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.068 s <<< FAILURE! -- in CalculatorTest
-CalculatorTest.testAdd -- Time elapsed: 0.011 s <<< FAILURE!
-java.lang.AssertionError: expected:<9> but was:<8>
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.071 s <<< FAILURE! -- in CalculatorTest
+CalculatorTest.testzero -- Time elapsed: 0.006 s <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<10>
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
 	at org.junit.Assert.assertEquals(Assert.java:647)
 	at org.junit.Assert.assertEquals(Assert.java:633)
-	at CalculatorTest.testAdd(CalculatorTest.java:10)
+	at CalculatorTest.testzero(CalculatorTest.java:17)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)

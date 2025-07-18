@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-authenticate" />
+        <module name="loan" />
         <module name="week_2_junit_exercise3" />
         <module name="week_2_junit_exercise4" />
         <module name="week_2_junit_exercise1" />
@@ -21,6 +22,7 @@
         <module name="week_3_spring_maven_exercise1" />
         <module name="week_3_spring_maven_exercise2" />
         <module name="spring-hello-world" />
+        <module name="account" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +33,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account" options="-parameters" />
+      <module name="loan" options="-parameters" />
       <module name="spring-authenticate" options="-parameters" />
       <module name="spring-hello-world" options="-parameters" />
       <module name="spring-hello-world (1)" options="-parameters" />
