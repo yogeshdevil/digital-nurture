@@ -27,6 +27,10 @@
         <option value="$PROJECT_DIR$/week_4_jwt_handson_authentservice/spring-authenticate/pom.xml" />
         <option value="$PROJECT_DIR$/week_5_microservices/account/pom.xml" />
         <option value="$PROJECT_DIR$/week_5_microservices/loan/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices_2/eureka-discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices_handson1/account/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices_handson1/loan/pom.xml" />
+        <option value="$PROJECT_DIR$/week_5_microservices_2/eureka-discovery-server/src/main/java/com/cognizant/account/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
